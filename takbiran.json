@@ -1,0 +1,57 @@
+{
+
+  "redirect" : [ {
+
+
+	"json_popup_wait" : "Sedang Koneksi ke Server . . . .",
+
+
+	"mode_no_ads" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+	
+	"pengaturan_iklan_banner": "1",
+	"pengaturan_iklan_inter": "1",
+	"pengaturan_iklan_native": "1",
+
+    "inter_count" : 5,
+
+    "enable_strap" : true,
+    "enable_strap_Splah" : true,
+    "ads_on_exit_dialog" : false,
+
+
+    "exit_popup_dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+    "rate_button" : "Rate 5 Stars",
+    "later_button" : "Rate Later",
+    "enable_Share_button" : true,
+    "Share_TXT" : "Supperr APPS Download Now",
+    "more_button" : "Share Via WhatsApp",
+    "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE ",
+
+    "startapp" : "204728195",
+
+	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+
+  
+    "bannerid" : "ca-app-pub-7022991062962464/6426427845",
+    "interid" : "ca-app-pub-7022991062962464/9606290807",
+    "nativeid" : "ca-app-pub-7022991062962464/2459136360",
+
+
+	"fan_banner" : "YOUR_PLACEMENT_ID",
+    "fan_inter" : "YOUR_PLACEMENT_ID",
+    "fan_native" : "YOUR_PLACEMENT_ID",
+
+
+    "hpk_alien" : "kuota data 30gb",
+    "hpkadmob1" : "Kuota Data",
+    "hpkadmob2" : "Bank Jenius",
+    "hpkadmob3" : "Simpati",
+    "hpkadmob4" : "Telkomsel",
+    "hpkadmob5" : "Donasi"
+	
+
+  } ]
+
+}
+
