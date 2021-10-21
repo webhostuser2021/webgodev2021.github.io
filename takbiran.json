@@ -1,11 +1,11 @@
 {
   "redirect" : {
 
-    "url_utama" : "https://caramudahcetakvaksin.blogspot.com/",
+    "url_utama" : "file:///android_asset/music/playlist.html",
 
-	"json_popup_wait" : "Selamat Datang di Aplikasi ",
+	"json_popup_wait" : "Server Ready ",
 	
-	"mode_no_ads" : true,
+	"mode_no_ads" : false,
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 	
 	"pengaturan_iklan_banner": "1",
@@ -19,11 +19,11 @@
 
     "ads_on_exit_dialog" : true,
 
-    "mode_offline_mp3" : false,
+    "mode_offline_mp3" : true,
 	"enable_sticky_notification" : true,
 
 
-    "startapp" : "",
+    "startapp" : "204380084",
 
      "admob_banner" : "",
     "admob_inter" : "",
