@@ -52,23 +52,11 @@
 "BUTTON_SHARE" : "SHARE TO FRIEND",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
-
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
-
-",
+"EXIT_POPUP_DIALOG" : "jika kamu menikmati aplikasi ini bantu kami dengan rating bintang 5 ya klik tombol rating",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
-
-",
+"SHARE_TXT" : "wah aplikasi ini bagus banget aku udah nyobain coba deh kamu donwload sekarang juga",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
 
@@ -78,3 +66,5 @@ coba deh kamu donwload sekrang juga
 
   }
 }
+
+
